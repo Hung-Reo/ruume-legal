@@ -1,217 +1,138 @@
-# Điều khoản sử dụng RUUME
+# Điều khoản Sử dụng RUUME
 
-**Phiên bản:** Draft v0.1
-**Hiệu lực:** [TBD — sau khi luật sư review và RUUME launch]
-**Cập nhật lần cuối:** 2026-05-08
+**Phiên bản:** v1.0
+**Ngày hiệu lực:** 18/05/2026
+**Đơn vị vận hành:** RUUME — Việt Nam
+**Liên hệ:** hungreo2005@gmail.com
 
-> ⚠️ **Đây là bản DRAFT phục vụ UX gate (App Store/Play Store) và baseline compliance.**
-> **Bắt buộc luật sư Việt Nam review trước khi áp dụng cho người dùng thật.**
-> Tham chiếu pháp lý: Bộ luật Dân sự 2015, Luật Thương mại 2005, Luật Bảo vệ quyền lợi người tiêu dùng 2023, Nghị định 85/2021/NĐ-CP về thương mại điện tử.
+Điều khoản này điều chỉnh việc bạn đăng ký, truy cập và sử dụng ứng dụng RUUME.
 
----
+Tài liệu được xây dựng dựa trên pháp luật Việt Nam liên quan đến giao dịch điện tử, thương mại điện tử, bảo vệ quyền lợi người tiêu dùng và bảo vệ dữ liệu cá nhân, bao gồm Luật Giao dịch điện tử 2023, Luật Bảo vệ quyền lợi người tiêu dùng 2023, Nghị định 52/2013/NĐ-CP về thương mại điện tử và các văn bản sửa đổi, bổ sung liên quan.
 
 ## 1. Chấp thuận điều khoản
 
-Bằng việc tạo tài khoản và sử dụng ứng dụng RUUME, bạn xác nhận:
+Khi tạo tài khoản, đăng nhập, đăng tin hoặc tiếp tục sử dụng RUUME, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý với Điều khoản này và Chính sách Bảo mật của RUUME.
 
-- Đã đọc và hiểu toàn bộ Điều khoản này
-- Đủ 16 tuổi trở lên (16-17 tuổi cần đồng ý của người giám hộ)
-- Cam kết tuân thủ pháp luật Việt Nam khi sử dụng dịch vụ
-- Đồng ý với [Chính sách bảo mật](./privacy-policy.md) đi kèm
+Nếu bạn không đồng ý, vui lòng không sử dụng RUUME.
 
-Nếu bạn **không đồng ý**, vui lòng không sử dụng RUUME.
+## 2. RUUME là nền tảng kết nối
 
----
+RUUME là nền tảng kết nối người mua và người bán đồ cũ trong cộng đồng nhỏ. RUUME cung cấp công cụ đăng tin, tìm kiếm, nhắn tin, đặt gạch, đánh giá, quản lý khu giao dịch và hỗ trợ an toàn cộng đồng.
 
-## 2. Bản chất dịch vụ — RUUME là sàn kết nối, KHÔNG phải bên bán
+RUUME không phải là bên bán, bên mua, bên vận chuyển, bên thanh toán hoặc bên bảo đảm chất lượng hàng hóa trong giao dịch giữa người dùng.
 
-**Quan trọng:** RUUME là **nền tảng (sàn) kết nối** người mua và người bán đồ cũ trong cộng đồng gia đình Việt Nam. Chúng tôi:
+Mọi giao dịch mua bán là thỏa thuận trực tiếp giữa người mua và người bán. Người dùng tự chịu trách nhiệm kiểm tra hàng hóa, giá, quyền sở hữu, điều kiện giao nhận và phương thức thanh toán trước khi giao dịch.
 
-- ✅ Cung cấp công cụ đăng tin, tìm kiếm, nhắn tin
-- ✅ Xác minh thành viên (allowedUsers, trust score, hub)
-- ✅ Hỗ trợ phát hiện tin đăng vi phạm bằng AI và moderation thủ công
-- ❌ **KHÔNG** phải là bên bán/mua trong giao dịch
-- ❌ **KHÔNG** xử lý thanh toán giữa người mua và người bán
-- ❌ **KHÔNG** chịu trách nhiệm về chất lượng, tình trạng, sở hữu hợp pháp của hàng hóa
-- ❌ **KHÔNG** bảo đảm giao dịch thành công
+## 3. Tài khoản
 
-**Mọi giao dịch là thỏa thuận trực tiếp giữa người mua và người bán.** RUUME chỉ đóng vai trò trung gian kết nối.
+Khi sử dụng RUUME, bạn cam kết:
 
----
+- Cung cấp thông tin chính xác, cập nhật và không giả mạo người khác.
+- Tự bảo mật email, mật khẩu, thiết bị và phiên đăng nhập của mình.
+- Không chuyển nhượng, bán hoặc cho người khác sử dụng tài khoản nếu không được RUUME đồng ý.
+- Chỉ sử dụng một tài khoản chính, trừ trường hợp tài khoản phụ được admin duyệt cho mục đích hợp lệ.
+- Từ đủ 16 tuổi trở lên; người từ 16 đến dưới 18 tuổi cần có sự đồng ý và giám sát phù hợp của cha mẹ hoặc người giám hộ.
 
-## 3. Đăng ký tài khoản
+## 4. Người bán và tin đăng
 
-### 3.1 Yêu cầu
+Khi đăng tin bán hàng trên RUUME, bạn cam kết:
 
-- Cung cấp thông tin chính xác (email thật, tên hiển thị)
-- Một người chỉ được sở hữu một tài khoản
-- Không được giả mạo danh tính người khác
-- Mật khẩu: bạn tự chịu trách nhiệm bảo mật, không chia sẻ
+- Có quyền sở hữu hoặc quyền bán hợp pháp đối với món đồ.
+- Cung cấp mô tả, ảnh, giá, tình trạng hàng hóa trung thực và không gây hiểu nhầm.
+- Cung cấp thông tin định danh người bán khi app yêu cầu để phục vụ xác minh, chống lừa đảo và tuân thủ pháp luật liên quan đến thương mại điện tử.
+- Tự chịu trách nhiệm về nội dung tin đăng và giao dịch phát sinh từ tin đăng.
 
-### 3.2 Xác thực email
+RUUME có thể giới hạn giá trị tin đăng, yêu cầu bổ sung thông tin, tạm ẩn hoặc gỡ tin nếu tin đăng vi phạm Điều khoản, pháp luật hoặc gây rủi ro cho cộng đồng.
 
-Bắt buộc xác thực email để kích hoạt đầy đủ tính năng. Tài khoản chưa xác thực chỉ ở trạng thái chờ duyệt (waitlist).
+## 5. Hành vi bị cấm
 
-### 3.3 Người bán — yêu cầu thông tin theo NĐ 85/2021
+Bạn không được sử dụng RUUME để:
 
-Khi đăng tin bán hàng, bạn cam kết cung cấp đầy đủ thông tin **người bán** theo Điều 13 Nghị định 85/2021:
+- Đăng bán hàng cấm, hàng giả, hàng nhái, hàng nhập lậu, hàng vi phạm quyền sở hữu trí tuệ hoặc hàng hóa/dịch vụ bị pháp luật hạn chế.
+- Đăng tin lừa đảo, ảnh giả, giá ảo, mô tả sai tình trạng hàng hóa.
+- Quấy rối, đe dọa, kỳ thị, xúc phạm hoặc gây hại cho người khác.
+- Spam, đăng tin trùng lặp, thao túng đánh giá, tạo nhiều tài khoản để lách quy định.
+- Yêu cầu hoặc chia sẻ thông tin nhạy cảm không cần thiết cho giao dịch.
+- Scrape, sao chép dữ liệu, tấn công hệ thống, bypass bảo mật hoặc cố tình lách AI/moderation.
+- Dùng RUUME cho mục đích vi phạm pháp luật Việt Nam.
 
-- Họ tên thật
-- Số điện thoại liên hệ
-- Khu vực giao dịch (Hub)
-- Cam kết hàng hóa thuộc sở hữu hợp pháp
+## 6. Giao dịch, thanh toán và tranh chấp
 
-Thông tin này được hiển thị cho người mua quan tâm để thực hiện giao dịch.
+Người mua và người bán tự thỏa thuận về giá, thời gian, địa điểm giao nhận, kiểm hàng và thanh toán.
 
----
+RUUME khuyến khích người dùng:
 
-## 4. Quy tắc cộng đồng
+- Gặp ở nơi công cộng hoặc Trading Hub phù hợp.
+- Kiểm tra kỹ hàng hóa trước khi thanh toán.
+- Không chuyển tiền trước nếu chưa tin tưởng người bán.
+- Giữ bằng chứng giao dịch khi cần xử lý tranh chấp.
 
-### 4.1 Hàng hóa được phép
+RUUME không trực tiếp xử lý thanh toán giữa người dùng. Nếu phát sinh tranh chấp, RUUME có thể hỗ trợ bằng cách tiếp nhận báo cáo, xem xét bằng chứng trong app, hạn chế tài khoản vi phạm hoặc cung cấp thông tin theo yêu cầu hợp pháp của cơ quan có thẩm quyền.
 
-- Đồ cũ gia đình: nội thất, quần áo, đồ gia dụng, đồ trẻ em, sách, đồ điện tử nhỏ
-- Hàng còn sử dụng được, mô tả trung thực về tình trạng
+## 7. AI và kiểm duyệt
 
-### 4.2 Hàng hóa **CẤM** đăng
+RUUME có thể sử dụng AI và rule-based checks để:
 
-- Hàng giả, hàng nhái thương hiệu
-- Hàng cấm theo pháp luật Việt Nam: vũ khí, chất kích thích, thuốc lá điện tử, văn hóa phẩm đồi trụy
-- Động vật hoang dã, sản phẩm từ động vật bảo vệ
-- Thuốc/dược phẩm không kê đơn hợp lệ
-- Tài sản đang tranh chấp, tài sản không thuộc sở hữu của bạn
-- Dịch vụ có yêu cầu giấy phép kinh doanh chuyên ngành
+- Gợi ý mô tả, giá hoặc danh mục tin đăng.
+- Phát hiện hàng cấm, ảnh không phù hợp, spam, lừa đảo hoặc nội dung rủi ro.
+- Gắn cảnh báo và hỗ trợ admin xem xét vi phạm.
 
-### 4.3 Hành vi cấm
+AI có thể sai. Một số cảnh báo có thể được gắn tự động; quyết định gỡ tin, hạn chế dài hạn hoặc khóa tài khoản sẽ được admin xem xét dựa trên dữ liệu, bằng chứng và mức độ rủi ro.
 
-- Spam, đăng tin trùng lặp
-- Lừa đảo, đánh tráo, ép giá
-- Quấy rối, ngôn từ thù địch, kỳ thị
-- Yêu cầu thông tin cá nhân nhạy cảm (CCCD, tài khoản ngân hàng) không cần thiết cho giao dịch
-- Sử dụng nhiều tài khoản để thao túng đánh giá / trust score
-- Tự động hóa, scrape dữ liệu RUUME bằng bot
+## 8. Subscription và phí dịch vụ
 
-### 4.4 Giá trị tin đăng
+RUUME có thể cung cấp gói dùng thử, gói miễn phí, gói trả phí hoặc quyền truy cập do admin cấp. Thông tin về giá, thời hạn, quyền lợi và cách gia hạn được hiển thị trong app hoặc thông báo trực tiếp cho người dùng.
 
-Giá tin đăng giới hạn **0 — 50.000.000 VND**. Tin trên 20 triệu VND khuyến nghị giao dịch tại Hub. Tin trên 50 triệu hiện không được hỗ trợ — liên hệ admin nếu có nhu cầu đặc biệt.
+Hiện tại, nếu có thanh toán, việc xác nhận/gia hạn có thể được xử lý thủ công bởi admin. RUUME chưa xử lý thanh toán trực tiếp trong app.
 
----
+Nếu có chính sách hoàn tiền, hủy gói hoặc thay đổi giá, RUUME sẽ thông báo rõ trước hoặc tại thời điểm áp dụng theo quy định pháp luật liên quan.
 
-## 5. Vai trò AI và kiểm duyệt
+## 9. Quyền của RUUME
 
-RUUME sử dụng AI (OpenAI gpt-4o-mini) để:
+Để bảo vệ cộng đồng và vận hành dịch vụ, RUUME có quyền:
 
-- Quét hình ảnh tin đăng phát hiện hàng cấm
-- Gợi ý mô tả tin đăng (Memory Box, story)
-- Kiểm duyệt nội dung tin nhắn
+- Từ chối, tạm ẩn hoặc gỡ tin đăng vi phạm.
+- Cảnh báo, hạn chế tính năng, tạm khóa hoặc khóa tài khoản vi phạm.
+- Yêu cầu xác minh hoặc bổ sung thông tin khi có rủi ro.
+- Lưu bằng chứng cần thiết để xử lý vi phạm, tranh chấp, gian lận hoặc yêu cầu hợp pháp.
+- Cập nhật tính năng, quy trình, Điều khoản hoặc Chính sách Bảo mật khi cần.
 
-**Lưu ý:**
-- Bạn có thể từ chối AI scan ở từng tin đăng
-- AI có thể sai — chúng tôi kết hợp moderation thủ công
-- Quyết định cuối cùng về xét duyệt/khóa tin đăng do RUUME đưa ra
+Với vi phạm nghiêm trọng như lừa đảo, hàng cấm, giả mạo, quấy rối hoặc gây nguy cơ mất an toàn, RUUME có thể xử lý ngay để giảm thiểu rủi ro cho người dùng khác.
 
----
+## 10. Quyền của bạn
 
-## 6. Trách nhiệm và miễn trừ
+Bạn có quyền:
 
-### 6.1 Trách nhiệm của bạn
+- Cập nhật thông tin hồ sơ và cài đặt riêng tư trong app.
+- Gửi yêu cầu xóa tài khoản trong **Cài đặt → Yêu cầu xóa tài khoản**.
+- Gửi yêu cầu truy cập, chỉnh sửa hoặc nhận bản sao dữ liệu cá nhân theo Chính sách Bảo mật.
+- Báo cáo tin đăng, người dùng hoặc hành vi vi phạm.
+- Khiếu nại hoặc yêu cầu xem xét lại quyết định xử lý tài khoản qua email liên hệ.
 
-- Tuân thủ pháp luật Việt Nam và Điều khoản này
-- Chịu trách nhiệm hoàn toàn về nội dung tin đăng và hành vi giao dịch của mình
-- Tự kiểm tra hàng hóa, danh tính đối tác trước khi giao dịch
-- Báo cáo tin đăng/người dùng vi phạm qua tính năng Report
+## 11. Trách nhiệm và giới hạn trách nhiệm
 
-### 6.2 Miễn trừ trách nhiệm RUUME
+Bạn chịu trách nhiệm về nội dung mình đăng, tin nhắn mình gửi, quyết định giao dịch và việc tuân thủ pháp luật khi sử dụng RUUME.
 
-Trong phạm vi pháp luật cho phép, RUUME **không chịu trách nhiệm** với:
+Trong phạm vi pháp luật cho phép, RUUME không chịu trách nhiệm cho:
 
-- Chất lượng, tình trạng, sở hữu hợp pháp của hàng hóa
-- Tranh chấp giữa người mua và người bán
-- Mất mát do giao dịch không thành công, gian lận từ phía đối tác
-- Gián đoạn dịch vụ ngoài tầm kiểm soát (sự cố mạng, lỗi nhà cung cấp hạ tầng)
-- Thiệt hại gián tiếp, hậu quả phái sinh, mất lợi nhuận
+- Chất lượng, tình trạng, nguồn gốc hoặc quyền sở hữu hàng hóa do người dùng đăng bán.
+- Thiệt hại phát sinh từ giao dịch trực tiếp giữa người mua và người bán.
+- Hành vi, cam kết hoặc thông tin do người dùng khác cung cấp ngoài phạm vi RUUME kiểm soát.
+- Gián đoạn dịch vụ do lỗi mạng, nhà cung cấp hạ tầng, bảo trì, sự kiện bất khả kháng hoặc nguyên nhân ngoài khả năng kiểm soát hợp lý.
 
-### 6.3 Giới hạn trách nhiệm
+## 12. Thay đổi điều khoản
 
-Tổng trách nhiệm tài chính của RUUME (nếu có) trong mọi trường hợp **không vượt quá phí dịch vụ bạn đã trả cho RUUME trong 12 tháng gần nhất**, hoặc 1.000.000 VND, tùy con số nào lớn hơn.
+RUUME có thể cập nhật Điều khoản này khi sản phẩm, mô hình vận hành hoặc quy định pháp luật thay đổi. Nếu thay đổi quan trọng ảnh hưởng đến quyền và nghĩa vụ của bạn, RUUME sẽ thông báo trong app hoặc bằng phương thức phù hợp trước khi áp dụng khi pháp luật yêu cầu.
 
----
+## 13. Luật áp dụng và giải quyết tranh chấp
 
-## 7. Phí dịch vụ và gói đăng ký
+Điều khoản này được điều chỉnh bởi pháp luật Việt Nam.
 
-- Đăng ký tài khoản và đăng tin cơ bản: **miễn phí 7 ngày dùng thử**
-- Sau dùng thử: gói 3 tháng (59.000đ) / 1 năm (99.000đ) / không giới hạn (theo thông báo riêng)
-- Thanh toán hiện tại: thủ công qua chuyển khoản, admin RUUME kích hoạt
-- Hết hạn: 3 ngày grace period, sau đó tài khoản bị khóa cho đến khi gia hạn
+Nếu phát sinh tranh chấp, các bên ưu tiên thương lượng và hòa giải. Nếu không thể giải quyết bằng thương lượng, tranh chấp sẽ được xử lý bởi cơ quan hoặc tòa án có thẩm quyền theo quy định pháp luật Việt Nam.
 
----
+## 14. Liên hệ
 
-## 8. Vi phạm và xử lý
+Nếu có câu hỏi, yêu cầu hỗ trợ hoặc khiếu nại, vui lòng liên hệ:
 
-Khi phát hiện vi phạm Điều khoản hoặc pháp luật:
-
-| Mức vi phạm | Hành động |
-|---|---|
-| Lần 1 — vi phạm nhẹ | Cảnh báo, gỡ tin đăng |
-| Lần 2 — tái phạm | Tạm khóa tài khoản 7 ngày |
-| Lần 3 hoặc vi phạm nghiêm trọng | Khóa vĩnh viễn, mất quyền truy cập |
-| Hành vi lừa đảo, hàng cấm, giả mạo | Khóa ngay, lưu thông tin, hợp tác cơ quan điều tra nếu cần |
-
-Bạn có quyền khiếu nại quyết định khóa tài khoản qua [TBD email].
-
----
-
-## 9. Sở hữu trí tuệ
-
-- **Nội dung của bạn** (tin đăng, hình ảnh, tin nhắn): bạn giữ quyền sở hữu. Bạn cấp cho RUUME giấy phép **không độc quyền, miễn phí, có thể chuyển giao** để hiển thị, lưu trữ, xử lý nội dung phục vụ vận hành dịch vụ.
-- **Nội dung RUUME** (logo, giao diện, mã nguồn): thuộc sở hữu của RUUME. Bạn không được sao chép, phân phối lại nếu không có văn bản đồng ý.
-
----
-
-## 10. Chấm dứt
-
-### 10.1 Bạn có thể chấm dứt
-
-Bất cứ lúc nào, vào Settings → Xóa tài khoản. Sau khi xóa:
-
-- Dữ liệu cá nhân được anonymize trong 30 ngày
-- Tin đăng đang sold giữ lại 6 tháng (bảo vệ người mua)
-- Có thể yêu cầu data export trước khi xóa
-
-### 10.2 RUUME có thể chấm dứt
-
-- Khi bạn vi phạm nghiêm trọng Điều khoản này
-- Khi pháp luật yêu cầu
-- Khi RUUME ngừng cung cấp dịch vụ (thông báo trước 30 ngày)
-
----
-
-## 11. Sửa đổi điều khoản
-
-Khi có thay đổi quan trọng, RUUME sẽ:
-
-- Hiển thị thông báo trong app **ít nhất 7 ngày** trước khi áp dụng
-- Yêu cầu bạn đồng ý lại với phiên bản mới
-- Nếu không đồng ý, bạn có thể xóa tài khoản
-
----
-
-## 12. Luật áp dụng và giải quyết tranh chấp
-
-- **Luật áp dụng:** Pháp luật Việt Nam
-- **Giải quyết tranh chấp:** Ưu tiên thương lượng. Nếu không đạt thỏa thuận, tranh chấp được giải quyết tại Tòa án có thẩm quyền tại Việt Nam (theo nơi đặt trụ sở của RUUME)
-
----
-
-## 13. Liên hệ
-
-| Mục đích | Liên hệ |
-|---|---|
-| Hỗ trợ chung | [TBD — support@ruume.vn] |
-| Báo cáo vi phạm | Tính năng Report trong app, hoặc [TBD email] |
-| Khiếu nại quyết định | [TBD email] |
-| Pháp lý | [TBD — legal@ruume.vn] |
-| Đơn vị chịu trách nhiệm | [TBD — tên + địa chỉ pháp nhân] |
-
----
-
-*Phiên bản: Draft v0.1 — Bản này là baseline để triển khai UX gate (consent checkbox signup). Cần luật sư có chuyên môn TMĐT Việt Nam review trước khi áp dụng chính thức.*
+📧 **Email:** hungreo2005@gmail.com
+🇻🇳 **Đơn vị:** RUUME — Việt Nam
