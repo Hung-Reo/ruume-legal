@@ -4,29 +4,35 @@ Folder chứa các văn bản pháp lý của RUUME.
 
 ## Files
 
-- [`privacy-policy.md`](./privacy-policy.md) — Chính sách bảo mật (Draft v0.1)
-- [`terms-of-service.md`](./terms-of-service.md) — Điều khoản sử dụng (Draft v0.1)
+- [`privacy-policy.md`](./privacy-policy.md) — Chính sách bảo mật v1.0
+- [`terms-of-service.md`](./terms-of-service.md) — Điều khoản sử dụng v1.0
 
-## ⚠️ Status
+## Status
 
-**DRAFT** — chưa qua luật sư review. Phục vụ:
+**Public v1.0** — bản nội dung dùng cho legal URLs trong app:
 
-1. UX gate consent checkbox ở signup (#227)
-2. App Store / Play Store Privacy nutrition label
-3. Baseline compliance Luật BVDLCN 2025 + NĐ 85/2021
+1. Consent checkbox ở signup.
+2. Settings → Chính sách bảo mật / Điều khoản sử dụng.
+3. App Store / Play Store Privacy/Data Safety metadata.
+4. GitHub Pages public mirror.
 
-**Trước public launch:** bắt buộc luật sư Việt Nam chuyên TMĐT review từng mục, đặc biệt:
+Khi review/chỉnh sửa, ưu tiên kiểm tra các mục này trước khi publish lại GitHub Pages:
 
-- Phần 4 Privacy — chia sẻ dữ liệu (OpenAI, Firebase)
-- Phần 6 Privacy — quyền user (deletion timeline, data export)
-- Phần 6 TOS — miễn trừ trách nhiệm và giới hạn financial liability
-- Điền các `[TBD]` (tên pháp nhân, địa chỉ, email)
+- Privacy: phạm vi chia sẻ dữ liệu với Firebase/Google, OpenAI/Gemini, Expo/Apple/Google.
+- Privacy: retention thực tế sau account deletion, audit/log retention, data export.
+- Terms: subscription/fee/refund nếu RUUME mở trả phí rộng hơn.
+- Terms: thông tin đơn vị vận hành nếu sau này có pháp nhân/domain chính thức.
 
 ---
 
-## Host plan (chưa quyết)
+## Host plan
 
-3 option khả dĩ:
+URL production hiện đang trỏ tới GitHub Pages public mirror:
+
+- Privacy: `https://hung-reo.github.io/ruume-legal/privacy-policy`
+- Terms: `https://hung-reo.github.io/ruume-legal/terms-of-service`
+
+3 option khả dĩ nếu đổi host sau này:
 
 ### Option A — GitHub Pages từ docs folder
 - **Pros:** miễn phí, không cần infra mới
@@ -48,19 +54,22 @@ Folder chứa các văn bản pháp lý của RUUME.
 
 ---
 
-## Wire URL vào signup
+## Wire URL trong app
 
-Sau khi host xong, edit [signup.tsx:13-15](../../ruume/app/(auth)/signup.tsx):
+URL hiện đã được wire trong:
+
+- `ruume/app/(auth)/signup.tsx`
+- `ruume/app/settings/legal.tsx`
+
+Nếu đổi domain, cập nhật các constants:
 
 ```ts
 const PRIVACY_URL: string | null = 'https://ruume.vn/privacy';
 const TERMS_URL: string | null = 'https://ruume.vn/terms';
 ```
 
-Và update consent block để Pressable text mở `Linking.openURL(PRIVACY_URL)`.
-
-Tracked: issue #230 (planned).
+Consent block đã mở URL qua `Linking.openURL`.
 
 ---
 
-*Last updated: 2026-05-08*
+*Last updated: 2026-05-18*
