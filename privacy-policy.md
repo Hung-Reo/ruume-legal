@@ -2,7 +2,8 @@
 
 **Phiên bản:** v1.0
 **Ngày hiệu lực:** 18/05/2026
-**Đơn vị vận hành:** RUUME — Việt Nam
+**Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
+**Mã số thuế:** 0319460925
 **Liên hệ:** hungreo2005@gmail.com
 
 Chính sách này mô tả cách RUUME thu thập, sử dụng, lưu trữ, chia sẻ và bảo vệ dữ liệu cá nhân khi bạn sử dụng ứng dụng RUUME.
@@ -11,7 +12,7 @@ Tài liệu được xây dựng dựa trên các quy định pháp luật Việ
 
 ## 1. RUUME là gì?
 
-RUUME là nền tảng kết nối mua bán đồ cũ giữa các thành viên trong cộng đồng nhỏ như chung cư, khu dân cư hoặc nhóm sinh hoạt chung. RUUME hỗ trợ đăng tin, tìm kiếm, nhắn tin, đặt gạch, đánh giá, quản lý khu giao dịch và các công cụ an toàn cộng đồng.
+RUUME là nền tảng kết nối mua bán đồ cũ giữa các thành viên trong cộng đồng nhỏ như chung cư, khu dân cư hoặc nhóm sinh hoạt chung, được vận hành bởi Công ty TNHH MTV Công nghệ HUNGREO. RUUME hỗ trợ đăng tin, tìm kiếm, nhắn tin, đặt gạch, đánh giá, quản lý khu giao dịch và các công cụ an toàn cộng đồng.
 
 RUUME không phải là bên bán hoặc bên mua trong giao dịch giữa người dùng.
 
@@ -120,4 +121,5 @@ RUUME có thể cập nhật Chính sách Bảo mật này khi sản phẩm, quy
 Nếu có câu hỏi, yêu cầu hoặc khiếu nại liên quan đến dữ liệu cá nhân, vui lòng liên hệ:
 
 📧 **Email:** hungreo2005@gmail.com
-🇻🇳 **Đơn vị:** RUUME — Việt Nam
+🇻🇳 **Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
+**Mã số thuế:** 0319460925
