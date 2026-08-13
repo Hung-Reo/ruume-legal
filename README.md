@@ -6,6 +6,7 @@ Folder chứa các văn bản pháp lý của RUUME.
 
 - [`privacy-policy.md`](./privacy-policy.md) — Chính sách bảo mật v1.0
 - [`terms-of-service.md`](./terms-of-service.md) — Điều khoản sử dụng v1.0
+- [`quy-che-hoat-dong-san.md`](./quy-che-hoat-dong-san.md) — Quy chế hoạt động sàn (công bố theo Luật Thương mại điện tử số 122/2025/QH15)
 
 ## Status
 
@@ -31,6 +32,7 @@ URL production hiện đang trỏ tới GitHub Pages public mirror:
 
 - Privacy: `https://hung-reo.github.io/ruume-legal/privacy-policy`
 - Terms: `https://hung-reo.github.io/ruume-legal/terms-of-service`
+- Quy chế hoạt động sàn: `https://hung-reo.github.io/ruume-legal/quy-che-hoat-dong-san`
 
 3 option khả dĩ nếu đổi host sau này:
 
@@ -72,4 +74,4 @@ Consent block đã mở URL qua `Linking.openURL`.
 
 ---
 
-*Last updated: 2026-05-18*
+*Last updated: 2026-08-13 — bổ sung Quy chế hoạt động sàn (#627).*
