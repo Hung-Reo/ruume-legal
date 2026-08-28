@@ -4,7 +4,7 @@
 **Mã số thuế:** 0319460925
 **Địa chỉ:** 25/17 Đường Trần Văn Đang, Khu Phố 7, Phường Nhiêu Lộc, Thành phố Hồ Chí Minh, Việt Nam
 **Người đại diện pháp luật:** ĐINH QUANG HƯNG
-**Email:** hungreo2005@gmail.com
+**Email:** ruume.admin@gmail.com
 **Tên ứng dụng:** RUUME (ứng dụng di động iOS + Android)
 **Ngày hiệu lực:** kể từ ngày RUUME được Bộ Công Thương xác nhận đăng ký nền tảng thương mại điện tử trung gian theo Luật Thương mại điện tử số 122/2025/QH15.
 
@@ -38,11 +38,14 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 - RUUME **không thu phí hoa hồng/phí giao dịch** trên mỗi giao dịch giữa thành viên.
 - RUUME có thể cung cấp **gói thành viên (subscription)** với mức phí công khai để mở rộng tính năng đăng tin; gói được kích hoạt thủ công, không qua cổng thanh toán tự động trong app.
 - Giao dịch thực tế (giao hàng, thanh toán) diễn ra **trực tiếp giữa người mua và người bán**, thường gặp mặt tại khu giao dịch. RUUME không xử lý thanh toán hộ.
+- RUUME **không bán vị trí ưu tiên hiển thị** và không có paid ranking/boosting. Trên màn hình Home, tin có thể được ưu tiên theo cùng khu, cùng thành phố rồi đến khu vực khác; người dùng có thể tìm kiếm, lọc và chọn cách sắp xếp. Gợi ý danh mục được cá nhân hóa có nhãn AI.
 
 ### Điều 5. Hàng hóa giao dịch
 - Đồ cũ gia đình: nội thất, trang trí, cây cảnh, sách, quần áo, đồ dùng khác.
 - Khoảng giá: 0đ (tặng miễn phí) đến tối đa 50.000.000đ/sản phẩm.
 - **Hàng cấm/hạn chế:** không được đăng thực phẩm, mỹ phẩm, sản phẩm chăm sóc sức khỏe, rượu bia, thuốc lá, dược phẩm; hàng cấm theo pháp luật Việt Nam, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ, hàng không rõ nguồn gốc; hàng hóa/dịch vụ thuộc ngành nghề đầu tư kinh doanh có điều kiện nếu người bán không đáp ứng điều kiện pháp luật tương ứng; và hàng hóa bị hạn chế khác theo pháp luật.
+  - Với nhóm RUUME **chủ động không cho đăng** (thực phẩm, mỹ phẩm, sản phẩm chăm sóc sức khỏe, rượu bia, thuốc lá, dược phẩm), RUUME không tiếp nhận hoặc thẩm định giấy phép để mở ngoại lệ.
+  - Với **hàng giả, hàng xâm phạm quyền sở hữu trí tuệ và hàng không rõ nguồn gốc** — vốn bị pháp luật cấm và không có ngoại lệ — RUUME rà soát theo dấu hiệu nhận biết được từ nội dung và hình ảnh tin đăng, tiếp nhận thông báo từ người dùng và từ chủ thể quyền sở hữu trí tuệ, phối hợp xác minh và gỡ bỏ tin vi phạm. RUUME **không có chức năng giám định hàng hóa**; trách nhiệm về nguồn gốc, chất lượng và tính hợp pháp của hàng hóa thuộc về người bán.
 - RUUME có quyền từ chối/gỡ tin đăng đối với hàng hóa có dấu hiệu vi phạm pháp luật, không phù hợp định hướng cộng đồng hoặc không đủ thông tin xác minh.
 
 ---
@@ -53,9 +56,9 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 **Nghĩa vụ vận hành:**
 1. Đăng ký nền tảng thương mại điện tử trung gian với Bộ Công Thương theo Luật Thương mại điện tử số 122/2025/QH15 trước khi vận hành chính thức cho giao dịch thật.
 2. Xây dựng, công bố và thực hiện đúng Quy chế hoạt động này; thông báo cho thành viên khi có thay đổi quan trọng.
-3. Xác thực danh tính người bán **trước khi cho phép đăng bán** theo Điều kiện của Luật Thương mại điện tử 2025: người bán phải kê khai họ tên pháp lý, số điện thoại, số CCCD/mã định danh cá nhân và địa chỉ liên hệ; xác thực email tài khoản; toàn bộ dữ liệu định danh được mã hóa AES-256-GCM phía máy chủ trước khi lưu, kèm bằng chứng đồng ý (thời điểm ký, thiết bị, phiên bản biểu mẫu) lưu vết bất biến. Việc kết nối xác thực qua Hệ thống định danh và xác thực điện tử quốc gia (VNeID) sẽ được triển khai theo văn bản hướng dẫn thi hành của cơ quan có thẩm quyền. Đối với thương nhân, tổ chức hoặc hộ kinh doanh, RUUME yêu cầu bổ sung thông tin đăng ký kinh doanh/mã số thuế nếu pháp luật áp dụng.
+3. Xác thực danh tính người bán **trước khi cho phép đăng bán** theo Điều kiện của Luật Thương mại điện tử 2025: người bán phải kê khai họ tên pháp lý, số điện thoại, số CCCD/mã định danh cá nhân và địa chỉ liên hệ; xác thực email tài khoản; họ tên pháp lý, số điện thoại, địa chỉ liên hệ và số CCCD/mã định danh cá nhân được mã hóa AES-256-GCM phía máy chủ trước khi lưu; địa chỉ email dùng làm định danh đăng nhập nên được lưu ở dạng đọc được, chỉ tài khoản quản trị đã phân quyền mới truy cập và mọi lượt truy cập đều được ghi nhật ký, kèm bằng chứng đồng ý (thời điểm ký, thiết bị, phiên bản biểu mẫu) lưu vết bất biến. Việc kết nối xác thực qua Hệ thống định danh và xác thực điện tử quốc gia (VNeID) sẽ được triển khai theo văn bản hướng dẫn thi hành của cơ quan có thẩm quyền. Đối với thương nhân, tổ chức hoặc hộ kinh doanh, RUUME yêu cầu bổ sung thông tin đăng ký kinh doanh/mã số thuế nếu pháp luật áp dụng.
 4. Có cơ chế kiểm tra, rà soát và xử lý để thông tin người bán, tin đăng và giao dịch trên ứng dụng được cung cấp chính xác, đầy đủ trong phạm vi khả năng quản lý của RUUME.
-5. Gỡ bỏ hoặc khóa hiển thị sản phẩm/thông tin vi phạm trong thời hạn **24 giờ** kể từ khi nhận được yêu cầu hợp lệ của cơ quan nhà nước có thẩm quyền, hoặc xử lý kịp thời khi phát hiện/nhận phản ánh có căn cứ về vi phạm.
+5. Kiểm tra, rà soát, gỡ bỏ hoặc khóa hiển thị sản phẩm/thông tin vi phạm — bao gồm hàng hóa, dịch vụ **xâm phạm quyền sở hữu trí tuệ** hoặc kinh doanh trái pháp luật — trong thời hạn **24 giờ** kể từ khi nhận được yêu cầu hợp lệ của cơ quan nhà nước có thẩm quyền (điểm c khoản 1 Điều 17 Nghị định 248/2026/NĐ-CP), hoặc xử lý kịp thời khi phát hiện/nhận phản ánh có căn cứ về vi phạm; đồng thời phối hợp cung cấp thông tin phục vụ công tác thanh tra, kiểm tra theo quy định.
 6. Lưu trữ thông tin đăng ký thành viên, người bán, tin đăng, trạng thái giao dịch và dữ liệu xử lý khiếu nại tối thiểu **3 năm** theo Luật Thương mại điện tử 2025, trừ trường hợp pháp luật yêu cầu thời hạn dài hơn. Trường hợp người bán đóng/xóa tài khoản, hồ sơ định danh người bán tiếp tục được lưu trong kho lưu trữ pháp lý mã hóa (chỉ truy cập có kiểm soát, ghi nhật ký) để bảo đảm nghĩa vụ cung cấp thông tin cho cơ quan quản lý; các dữ liệu cá nhân khác được xóa/ẩn danh theo Luật Bảo vệ dữ liệu cá nhân.
 7. Báo cáo tình hình hoạt động thương mại điện tử định kỳ hoặc theo yêu cầu hợp pháp của cơ quan quản lý nhà nước.
 8. Cung cấp thông tin cho cơ quan quản lý nhà nước khi có yêu cầu hợp pháp.
@@ -87,7 +90,7 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 
 ### Điều 9. Quy trình giao dịch cơ bản
 1. Người bán đăng tin hàng hóa với ảnh, mô tả, giá bán/tặng, khu vực giao dịch.
-2. RUUME kiểm duyệt nội dung tin đăng **trước khi cho phép hiển thị** nhằm phòng chống hàng cấm, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ, hàng không rõ nguồn gốc xuất xứ theo Luật Thương mại điện tử 2025. Hệ thống tự động có ứng dụng AI để quét **nội dung dạng văn bản** của tin đăng (tiêu đề, mô tả, danh mục, thương hiệu, mẫu mã) và đánh dấu rủi ro; **hình ảnh của tin đăng do quản trị viên kiểm tra thủ công**. Tin đăng có hình ảnh được giữ ở trạng thái chờ duyệt cho tới khi quản trị viên phê duyệt.
+2. RUUME rà soát tin đăng **trước khi cho phép hiển thị** nhằm phòng chống hàng cấm, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ, hàng không rõ nguồn gốc xuất xứ theo Luật Thương mại điện tử 2025. Hệ thống tự động có ứng dụng AI đọc **cả nội dung văn bản** (tiêu đề, mô tả, danh mục, thương hiệu, mẫu mã) **và hình ảnh** của tin đăng để phát hiện dấu hiệu vi phạm. Tin đăng chỉ tự hiển thị khi hệ thống đạt mức tin cậy đủ; khi hệ thống chưa đủ căn cứ kết luận, khi có hình ảnh không rà soát được, hoặc khi phát hiện dấu hiệu vi phạm, tin được giữ ẩn và chuyển quản trị viên xem xét. **Quyết định gỡ bỏ hoặc khôi phục tin đăng luôn do con người đưa ra**; hệ thống tự động không tự khôi phục tin đã bị quản trị viên từ chối.
 3. Người mua tìm kiếm, nhắn tin và có thể bấm "đặt gạch" để thể hiện nhu cầu mua.
 4. Hai bên tự thỏa thuận giao nhận, kiểm tra hàng hóa và thanh toán trực tiếp.
 5. Sau giao dịch, hai bên có thể đánh giá uy tín, gửi phản ánh hoặc khiếu nại nếu có vấn đề.
@@ -103,8 +106,11 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 ### Điều 11. Giải quyết khiếu nại, tranh chấp
 - Thành viên gửi báo cáo qua tính năng Báo cáo trong app.
 - Admin tiếp nhận, phân loại, yêu cầu các bên cung cấp thông tin/bằng chứng và xử lý theo Quy chế.
-- Thời hạn phản hồi ban đầu dự kiến: trong vòng 24 giờ làm việc kể từ khi nhận phản ánh đầy đủ thông tin.
-- Tranh chấp không giải quyết được qua nền tảng → các bên tự thỏa thuận hoặc đưa ra cơ quan có thẩm quyền.
+- Thời hạn phản hồi ban đầu dự kiến: trong vòng **24–72 giờ làm việc** kể từ khi nhận phản ánh đầy đủ thông tin.
+
+**a) Tranh chấp giữa người mua và người bán.** RUUME khuyến khích hai bên tự thương lượng, hòa giải. RUUME tiếp nhận phản ánh, lưu bằng chứng và hỗ trợ xác minh trong phạm vi dữ liệu nền tảng có. Nếu xác định người bán vi phạm Quy chế, RUUME áp dụng biện pháp theo mức độ: nhắc nhở, gỡ tin đăng, tạm ngưng hoặc chấm dứt tài khoản, và chuyển thông tin tới cơ quan có thẩm quyền khi cần thiết. RUUME không giữ tiền và không xử lý thanh toán nên không thực hiện việc hoàn tiền thay người bán.
+
+**b) Tranh chấp giữa thành viên và RUUME.** Hai bên ưu tiên thương lượng, hòa giải. Trường hợp không đạt được thỏa thuận, vụ việc được giải quyết theo quy định của pháp luật Việt Nam.
 
 ### Điều 12. Bảo vệ thông tin cá nhân
 Theo Chính sách bảo mật (Privacy Policy) công khai tại: https://hung-reo.github.io/ruume-legal/privacy-policy
@@ -123,4 +129,4 @@ Quy chế có hiệu lực kể từ ngày RUUME được Bộ Công Thương x�
 
 ---
 
-*Liên hệ: hungreo2005@gmail.com — Công ty TNHH MTV Công nghệ HUNGREO, MST 0319460925.*
+*Liên hệ: ruume.admin@gmail.com — Công ty TNHH MTV Công nghệ HUNGREO, MST 0319460925.*

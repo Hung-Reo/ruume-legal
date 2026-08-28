@@ -4,7 +4,7 @@
 **Ngày hiệu lực:** 18/05/2026
 **Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
 **Mã số thuế:** 0319460925
-**Liên hệ:** hungreo2005@gmail.com
+**Liên hệ:** ruume.admin@gmail.com
 
 Chính sách này mô tả cách RUUME thu thập, sử dụng, lưu trữ, chia sẻ và bảo vệ dữ liệu cá nhân khi bạn sử dụng ứng dụng RUUME.
 
@@ -92,7 +92,7 @@ Theo pháp luật Việt Nam về bảo vệ dữ liệu cá nhân, bạn có c�
 - Phản đối hoặc hạn chế xử lý dữ liệu trong các trường hợp phù hợp.
 - Khiếu nại, tố cáo hoặc yêu cầu bồi thường theo quy định pháp luật nếu quyền dữ liệu cá nhân bị xâm phạm.
 
-Bạn có thể thực hiện các quyền này qua tính năng trong app hoặc gửi email tới `hungreo2005@gmail.com`. RUUME có thể cần xác minh danh tính và kiểm tra giao dịch/tranh chấp đang mở trước khi hoàn tất yêu cầu.
+Bạn có thể thực hiện các quyền này qua tính năng trong app hoặc gửi email tới `ruume.admin@gmail.com`. RUUME có thể cần xác minh danh tính và kiểm tra giao dịch/tranh chấp đang mở trước khi hoàn tất yêu cầu.
 
 ## 8. Xóa tài khoản
 
@@ -120,6 +120,6 @@ RUUME có thể cập nhật Chính sách Bảo mật này khi sản phẩm, quy
 
 Nếu có câu hỏi, yêu cầu hoặc khiếu nại liên quan đến dữ liệu cá nhân, vui lòng liên hệ:
 
-📧 **Email:** hungreo2005@gmail.com
+📧 **Email:** ruume.admin@gmail.com
 🇻🇳 **Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
 **Mã số thuế:** 0319460925
