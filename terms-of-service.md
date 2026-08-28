@@ -4,7 +4,7 @@
 **Ngày hiệu lực:** 18/05/2026
 **Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
 **Mã số thuế:** 0319460925
-**Liên hệ:** hungreo2005@gmail.com
+**Liên hệ:** ruume.admin@gmail.com
 
 Điều khoản này điều chỉnh việc bạn đăng ký, truy cập và sử dụng ứng dụng RUUME.
 
@@ -135,6 +135,6 @@ Nếu phát sinh tranh chấp, các bên ưu tiên thương lượng và hòa gi
 
 Nếu có câu hỏi, yêu cầu hỗ trợ hoặc khiếu nại, vui lòng liên hệ:
 
-📧 **Email:** hungreo2005@gmail.com
+📧 **Email:** ruume.admin@gmail.com
 🇻🇳 **Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
 **Mã số thuế:** 0319460925
