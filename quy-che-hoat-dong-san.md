@@ -43,8 +43,8 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 ### Điều 5. Hàng hóa giao dịch
 - Đồ cũ gia đình: nội thất, trang trí, cây cảnh, sách, quần áo, đồ dùng khác.
 - Khoảng giá: 0đ (tặng miễn phí) đến tối đa 50.000.000đ/sản phẩm.
-- **Hàng cấm/hạn chế:** không được đăng thực phẩm, mỹ phẩm, sản phẩm chăm sóc sức khỏe, rượu bia, thuốc lá, dược phẩm; hàng cấm theo pháp luật Việt Nam, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ, hàng không rõ nguồn gốc; hàng hóa/dịch vụ thuộc ngành nghề đầu tư kinh doanh có điều kiện nếu người bán không đáp ứng điều kiện pháp luật tương ứng; và hàng hóa bị hạn chế khác theo pháp luật.
-  - Với nhóm RUUME **chủ động không cho đăng** (thực phẩm, mỹ phẩm, sản phẩm chăm sóc sức khỏe, rượu bia, thuốc lá, dược phẩm), RUUME không tiếp nhận hoặc thẩm định giấy phép để mở ngoại lệ.
+- **Hàng cấm/hạn chế:** không được đăng thực phẩm, mỹ phẩm, sản phẩm chăm sóc sức khỏe, rượu bia, thuốc lá, dược phẩm; hàng cấm theo pháp luật Việt Nam, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ, hàng không rõ nguồn gốc; hàng hóa/dịch vụ thuộc ngành nghề đầu tư kinh doanh có điều kiện — **cấm trong mọi trường hợp**; và hàng hóa bị hạn chế khác theo pháp luật.
+  - Với nhóm RUUME **chủ động không cho đăng** (thực phẩm, mỹ phẩm, sản phẩm chăm sóc sức khỏe, rượu bia, thuốc lá, dược phẩm, **và hàng hóa/dịch vụ thuộc ngành nghề đầu tư kinh doanh có điều kiện**), RUUME **không tiếp nhận và không thẩm định giấy phép để mở ngoại lệ** — nền tảng không có chức năng tiếp nhận giấy phép của người bán.
   - Với **hàng giả, hàng xâm phạm quyền sở hữu trí tuệ và hàng không rõ nguồn gốc** — vốn bị pháp luật cấm và không có ngoại lệ — RUUME rà soát theo dấu hiệu nhận biết được từ nội dung và hình ảnh tin đăng, tiếp nhận thông báo từ người dùng và từ chủ thể quyền sở hữu trí tuệ, phối hợp xác minh và gỡ bỏ tin vi phạm. RUUME **không có chức năng giám định hàng hóa**; trách nhiệm về nguồn gốc, chất lượng và tính hợp pháp của hàng hóa thuộc về người bán.
 - RUUME có quyền từ chối/gỡ tin đăng đối với hàng hóa có dấu hiệu vi phạm pháp luật, không phù hợp định hướng cộng đồng hoặc không đủ thông tin xác minh.
 
