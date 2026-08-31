@@ -51,8 +51,9 @@ RUUME không bán dữ liệu cá nhân của bạn cho bên thứ ba.
 RUUME chỉ chia sẻ hoặc xử lý dữ liệu qua bên thứ ba khi cần để vận hành dịch vụ:
 
 - **Firebase/Google Cloud:** xác thực tài khoản, Firestore, Storage, Cloud Functions, thông báo, log kỹ thuật và hạ tầng vận hành.
-- **OpenAI hoặc Google Gemini:** phân tích ảnh/nội dung khi sử dụng tính năng AI scan, gợi ý mô tả, phát hiện rủi ro hoặc hỗ trợ kiểm duyệt.
-- **Expo, Apple, Google:** gửi push notification và vận hành app trên iOS/Android.
+- **OpenAI hoặc Google Gemini:** xử lý văn bản và hình ảnh khi sử dụng tính năng AI scan, gợi ý nội dung, phát hiện rủi ro hoặc hỗ trợ kiểm duyệt. RUUME không chủ động ghép hồ sơ định danh người bán vào prompt, nhưng nội dung/ảnh bạn tự nhập có thể chứa dữ liệu cá nhân.
+- **Vercel:** vận hành trang quản trị và các Next.js API. Khi quản trị viên được phân quyền thực hiện hỗ trợ, kiểm duyệt hoặc xử lý vi phạm, request/response có thể chứa dữ liệu cần thiết cho thao tác đó.
+- **Expo, Apple, Google:** phân phối/cập nhật ứng dụng, vận hành app trên iOS/Android và chuyển phát push notification; các bên này có thể xử lý push token, metadata thiết bị và payload thông báo theo luồng sử dụng.
 - **Người dùng khác:** chỉ thấy những thông tin bạn công khai trong hồ sơ, tin đăng, chat, đánh giá hoặc tín hiệu cộng đồng mà app hiển thị.
 - **Cơ quan nhà nước có thẩm quyền:** khi có yêu cầu hợp pháp theo quy định pháp luật.
 
@@ -64,10 +65,10 @@ RUUME áp dụng các biện pháp kỹ thuật và tổ chức phù hợp với
 
 - Dữ liệu truyền qua HTTPS/TLS.
 - Dữ liệu lưu trên Firebase/Google Cloud được bảo vệ theo cơ chế bảo mật của nhà cung cấp hạ tầng.
-- Thông tin định danh người bán trong `sellerCompliance` được mã hóa field-level bằng AES-256-GCM trước khi lưu vào Firestore.
+- Năm trường trong hồ sơ định danh người bán — họ tên pháp lý, số điện thoại, địa chỉ, CCCD/mã định danh và bản sao email — được mã hóa field-level bằng AES-256-GCM trước khi lưu vào Firestore. Email đăng nhập chính vẫn được Firebase Authentication/hồ sơ tài khoản lưu ở dạng cần thiết để đăng nhập và liên hệ.
 - Khóa mã hóa PII được quản lý qua Google Secret Manager và chỉ backend được cấu hình mới dùng để mã hóa/giải mã.
 - Token nhạy cảm trên thiết bị được lưu bằng iOS Keychain hoặc Android EncryptedSharedPreferences thông qua `expo-secure-store` khi tính năng tương ứng sử dụng.
-- Firestore Security Rules và Cloud Functions được dùng để giới hạn quyền đọc/ghi theo vai trò, chủ sở hữu dữ liệu và phạm vi xử lý.
+- Firestore Security Rules giới hạn truy cập trực tiếp từ ứng dụng theo vai trò/chủ sở hữu. Các đường máy chủ dùng Cloud Functions hoặc Firebase Admin SDK kiểm token, vai trò và phạm vi nghiệp vụ tại backend vì Admin SDK không phụ thuộc Security Rules của client.
 
 Không có hệ thống nào an toàn tuyệt đối. RUUME sẽ tiếp tục cải thiện các biện pháp bảo mật khi sản phẩm mở rộng.
 
