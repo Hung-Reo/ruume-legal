@@ -6,6 +6,7 @@
 **Người đại diện pháp luật:** ĐINH QUANG HƯNG
 **Email:** ruume.admin@gmail.com
 **Tên ứng dụng:** RUUME (ứng dụng di động iOS + Android)
+**Ngày cập nhật gần nhất:** 10/09/2026 — cập nhật căn cứ pháp lý theo khung pháp luật có hiệu lực
 **Ngày hiệu lực:** kể từ ngày RUUME được Bộ Công Thương xác nhận đăng ký nền tảng thương mại điện tử trung gian theo Luật Thương mại điện tử số 122/2025/QH15.
 
 ---
@@ -36,7 +37,7 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 ### Điều 4. Mô hình ứng dụng
 - RUUME là **nền tảng trung gian kết nối** người mua-người bán, KHÔNG phải bên bán hàng.
 - RUUME **không thu phí hoa hồng/phí giao dịch** trên mỗi giao dịch giữa thành viên.
-- RUUME có thể cung cấp **gói thành viên (subscription)** với mức phí công khai để mở rộng tính năng đăng tin; gói được kích hoạt thủ công, không qua cổng thanh toán tự động trong app.
+- **Hiện tại RUUME miễn phí hoàn toàn đối với mọi thành viên.** RUUME có thể cung cấp **gói thành viên (subscription)** với mức phí công khai để mở rộng tính năng đăng tin; gói được kích hoạt thủ công, không qua cổng thanh toán tự động trong app. Việc bắt đầu thu phí chỉ áp dụng sau khi biểu phí được **công bố công khai trên ứng dụng tối thiểu 05 ngày** trước ngày áp dụng, theo Điều 13.
 - Giao dịch thực tế (giao hàng, thanh toán) diễn ra **trực tiếp giữa người mua và người bán**, thường gặp mặt tại khu giao dịch. RUUME không xử lý thanh toán hộ.
 - RUUME **không bán vị trí ưu tiên hiển thị** và không có paid ranking/boosting. Trên màn hình Home, tin có thể được ưu tiên theo cùng khu, cùng thành phố rồi đến khu vực khác; người dùng có thể tìm kiếm, lọc và chọn cách sắp xếp. Gợi ý danh mục được cá nhân hóa có nhãn AI.
 
@@ -62,7 +63,7 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 6. Lưu trữ thông tin đăng ký thành viên, người bán, tin đăng, trạng thái giao dịch và dữ liệu xử lý khiếu nại tối thiểu **3 năm** theo Luật Thương mại điện tử 2025, trừ trường hợp pháp luật yêu cầu thời hạn dài hơn. Trường hợp người bán đóng/xóa tài khoản, hồ sơ định danh người bán tiếp tục được lưu trong kho lưu trữ pháp lý mã hóa (chỉ truy cập có kiểm soát, ghi nhật ký) để bảo đảm nghĩa vụ cung cấp thông tin cho cơ quan quản lý; các dữ liệu cá nhân khác được xóa/ẩn danh theo Luật Bảo vệ dữ liệu cá nhân.
 7. Báo cáo tình hình hoạt động thương mại điện tử định kỳ hoặc theo yêu cầu hợp pháp của cơ quan quản lý nhà nước.
 8. Cung cấp thông tin cho cơ quan quản lý nhà nước khi có yêu cầu hợp pháp.
-9. Bảo vệ thông tin cá nhân thành viên theo Chính sách bảo mật, Nghị định 13/2023/NĐ-CP, Luật Bảo vệ dữ liệu cá nhân 2025 và văn bản hướng dẫn có liên quan.
+9. Bảo vệ thông tin cá nhân thành viên theo Chính sách bảo mật, Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định 356/2025/NĐ-CP quy định chi tiết thi hành.
 10. Có cơ chế tiếp nhận, giải quyết khiếu nại (qua tính năng Báo cáo + Góp ý trong app và email liên hệ).
 
 **Quyền:**
@@ -103,6 +104,18 @@ RUUME là nền tảng thương mại điện tử trung gian: cho phép tổ ch
 - Người bán được **thông báo trong ứng dụng** khi tin đăng bị tạm ẩn chờ duyệt và khi có quyết định phê duyệt hoặc từ chối.
 - Cơ chế đánh giá uy tín (trust score) giữa các thành viên.
 - Biện pháp xử lý gồm: yêu cầu sửa tin, tạm ẩn/gỡ tin, cảnh báo, giới hạn tính năng, tạm khóa hoặc chấm dứt tài khoản.
+- **Thang xử lý theo số lần vi phạm:**
+
+| Lần vi phạm | Biện pháp | Cấp quyết định |
+|---|---|---|
+| Lần thứ nhất | Từ chối hiển thị tin đăng kèm thông báo nhắc nhở nêu rõ lý do | Trưởng khu hoặc Quản trị viên cấp cao |
+| Lần thứ hai | Nhắc nhở lần cuối kèm cảnh báo hậu quả; có thể khóa quyền đăng bán hoặc tạm ngưng tài khoản | Trưởng khu hoặc Quản trị viên cấp cao |
+| Lần thứ ba | Chấm dứt cung cấp dịch vụ, khóa tài khoản vĩnh viễn | **Chỉ Quản trị viên cấp cao** |
+| Không theo số lần | Vi phạm nghiêm trọng hoặc có dấu hiệu cố ý (hàng giả, xâm phạm quyền sở hữu trí tuệ, dấu hiệu lừa đảo, không hợp tác cung cấp thông tin): **chấm dứt cung cấp dịch vụ ngay**, không qua bước nhắc nhở | **Chỉ Quản trị viên cấp cao** |
+
+- **Phân cấp thẩm quyền được cưỡng chế ở tầng máy chủ:** Trưởng khu chỉ tạm ngưng được tài khoản; thao tác khóa vĩnh viễn bị máy chủ từ chối nếu người thực hiện không phải Quản trị viên cấp cao.
+- Việc xác định số lần vi phạm hiện do quản trị viên đối chiếu nhật ký; hệ thống chưa tự động đếm và tự động nâng mức xử lý.
+- Thành viên bị áp dụng biện pháp xử lý được thông báo kèm lý do và có quyền khiếu nại theo Điều 11.
 
 ### Điều 11. Giải quyết khiếu nại, tranh chấp
 - Thành viên gửi báo cáo qua tính năng Báo cáo trong app.
@@ -123,10 +136,9 @@ Quy chế có hiệu lực kể từ ngày RUUME được Bộ Công Thương x�
 
 ## Căn cứ pháp lý
 - **Luật Thương mại điện tử số 122/2025/QH15** (hiệu lực từ ngày 01/07/2026) — căn cứ chính; RUUME đăng ký theo loại hình **nền tảng thương mại điện tử trung gian**.
-- Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và văn bản hướng dẫn.
-- Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân.
+- Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và **Nghị định 356/2025/NĐ-CP** quy định chi tiết thi hành (có hiệu lực từ 01/01/2026, thay thế Nghị định 13/2023/NĐ-CP).
 - Luật Bảo vệ quyền lợi người tiêu dùng và pháp luật dân sự, thương mại có liên quan.
-- Các văn bản quy định chi tiết, hướng dẫn thi hành Luật Thương mại điện tử 2025 (áp dụng khi được ban hành).
+- **Nghị định 248/2026/NĐ-CP** quy định chi tiết thi hành Luật Thương mại điện tử (có hiệu lực từ 01/07/2026, thay thế Nghị định 52/2013/NĐ-CP và Nghị định 85/2021/NĐ-CP).
 
 ---
 

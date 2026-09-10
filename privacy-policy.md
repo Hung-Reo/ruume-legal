@@ -1,14 +1,15 @@
 # Chính sách Bảo mật RUUME
 
-**Phiên bản:** v1.0
+**Phiên bản:** v1.1
 **Ngày hiệu lực:** 18/05/2026
+**Ngày cập nhật gần nhất:** 10/09/2026 — cập nhật căn cứ pháp lý theo khung pháp luật có hiệu lực và bổ sung công bố về lưu trữ hồ sơ theo nghĩa vụ pháp luật (Mục 8)
 **Đơn vị vận hành/chủ quản:** Công ty TNHH MTV Công nghệ HUNGREO — Việt Nam
 **Mã số thuế:** 0319460925
 **Liên hệ:** ruume.admin@gmail.com
 
 Chính sách này mô tả cách RUUME thu thập, sử dụng, lưu trữ, chia sẻ và bảo vệ dữ liệu cá nhân khi bạn sử dụng ứng dụng RUUME.
 
-Tài liệu được xây dựng dựa trên các quy định pháp luật Việt Nam đang áp dụng hoặc đã được công bố hiệu lực, bao gồm Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15, Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân, Luật Bảo vệ quyền lợi người tiêu dùng 2023, Nghị định 52/2013/NĐ-CP về thương mại điện tử và các văn bản sửa đổi, bổ sung liên quan.
+Tài liệu được xây dựng dựa trên các quy định pháp luật Việt Nam **đang có hiệu lực**, bao gồm Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định 356/2025/NĐ-CP quy định chi tiết thi hành (có hiệu lực từ 01/01/2026, thay thế Nghị định 13/2023/NĐ-CP); Luật Thương mại điện tử số 122/2025/QH15 và Nghị định 248/2026/NĐ-CP quy định chi tiết thi hành (có hiệu lực từ 01/07/2026, thay thế Nghị định 52/2013/NĐ-CP và Nghị định 85/2021/NĐ-CP); Luật Bảo vệ quyền lợi người tiêu dùng 2023 và các văn bản sửa đổi, bổ sung liên quan.
 
 ## 1. RUUME là gì?
 
@@ -103,9 +104,21 @@ Khi yêu cầu được duyệt và hoàn tất:
 
 - Tài khoản Firebase Auth bị xóa.
 - Các trường PII chính trong hồ sơ người dùng bị xóa hoặc ẩn danh.
-- Thông tin định danh người bán trong hồ sơ bị xóa.
+- Thông tin định danh người bán bị xóa khỏi **hồ sơ hoạt động** của bạn trong ứng dụng.
 - Tin đăng của bạn bị chuyển sang trạng thái `deleted`.
 - Một số dữ liệu như chat đã gửi, giao dịch, đánh giá, báo cáo vi phạm hoặc audit log có thể tiếp tục được giữ ở dạng tối thiểu hoặc ẩn danh nếu cần để bảo vệ người dùng khác, xử lý tranh chấp, chống gian lận hoặc tuân thủ pháp luật.
+
+**Ngoại lệ quan trọng — hồ sơ người bán được lưu tại kho lưu trữ pháp lý riêng.** Nếu bạn đã từng kê khai thông tin để được cấp quyền đăng bán, RUUME **giữ lại bản sao hồ sơ định danh người bán** kể cả sau khi tài khoản của bạn bị xóa. Cụ thể:
+
+| Nội dung | Mô tả |
+|---|---|
+| **Vì sao giữ** | Nghĩa vụ lưu trữ thông tin người bán và dữ liệu giao dịch theo pháp luật thương mại điện tử, và nghĩa vụ cung cấp thông tin cho cơ quan nhà nước có thẩm quyền khi có yêu cầu hợp pháp. Đây là cơ sở xử lý "tuân thủ nghĩa vụ pháp luật" theo Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 |
+| **Giữ những gì** | Hồ sơ kê khai người bán ở **dạng mã hóa**, kèm thư điện tử, tên hiển thị và khu vực giao dịch tại thời điểm xóa tài khoản |
+| **Lưu ở đâu** | Kho lưu trữ pháp lý **tách riêng** khỏi dữ liệu vận hành. Ứng dụng **không đọc được** kho này — quy tắc bảo mật máy chủ từ chối mọi truy cập từ phía ứng dụng |
+| **Ai đọc được** | Chỉ **Quản trị viên cấp cao**, thông qua một chức năng riêng có **ghi nhật ký kiểm toán bắt buộc**: không ghi được nhật ký thì truy cập bị từ chối |
+| **Giữ đến khi nào** | Theo thời hạn của nghĩa vụ pháp luật tương ứng. Việc kết thúc lưu giữ được thực hiện theo quy trình rà soát nội bộ khi nghĩa vụ chấm dứt; hệ thống **chưa có cơ chế tự động xóa** khi hết thời hạn |
+
+Nếu bạn chưa từng kê khai thông tin người bán, ngoại lệ này **không áp dụng** với bạn.
 
 ## 9. Trẻ em
 
